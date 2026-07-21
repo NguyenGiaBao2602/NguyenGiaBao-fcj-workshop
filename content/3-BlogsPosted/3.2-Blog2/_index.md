@@ -26,7 +26,7 @@ AWS just announced an architecture combining Amazon Bedrock Data Automation and 
 FHIR is the international standard for healthcare systems to exchange data with one another. Simply put: it is like a "common language" that every hospital software in the world understands. When patient data is stored in the FHIR standard, any system — whether from Hospital A or Clinic B — can read and use it seamlessly.
 
 #### How does the entire pipeline work?
-<img width="865" height="359" alt="image" src="https://github.com/user-attachments/assets/f8bf8baa-8d1b-4580-b23e-56d84e9fcfaf" />
+<img width="865" height="359" alt="Blog 2-1" src="/images/3-Blogs/blog2-1.png" />
 
 The workflow runs fully autonomously through sequential event triggers:
 
@@ -48,7 +48,7 @@ The workflow runs fully autonomously through sequential event triggers:
 #### What does the actual system output look like?
 Here is an example of an actual output from the system after processing a sample medical record:
 
-<img width="865" height="550" alt="image" src="https://github.com/user-attachments/assets/ed85b62e-516a-4763-a13a-791f4f55093c" />
+<img width="865" height="550" alt="Blog 2-2" src="/images/3-Blogs/blog2-2.png" />
 
 *“All the above information was extracted automatically from a scanned PDF file — within 2 to 3 minutes.”*
 

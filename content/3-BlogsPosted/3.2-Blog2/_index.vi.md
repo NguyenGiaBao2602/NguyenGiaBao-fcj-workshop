@@ -26,7 +26,7 @@ AWS vừa công bố một kiến trúc kết hợp Amazon Bedrock Data Automati
 FHIR là tiêu chuẩn quốc tế để các hệ thống y tế trao đổi dữ liệu với nhau. Hiểu đơn giản: nó giống như "ngôn ngữ chung" mà mọi phần mềm bệnh viện trên thế giới đều hiểu được. Khi dữ liệu bệnh nhân được lưu theo chuẩn FHIR, bất kỳ hệ thống nào — dù của bệnh viện A hay phòng khám B — đều có thể đọc và dùng được.
 
 #### Toàn bộ quy trình hoạt động ra sao?
-<img width="865" height="359" alt="image" src="https://github.com/user-attachments/assets/f8bf8baa-8d1b-4580-b23e-56d84e9fcfaf" />
+<img width="865" height="359" alt="Blog 2-1" src="/images/3-Blogs/blog2-1.png" />
 
 Quy trình chạy hoàn toàn tự động theo từng bước kích hoạt nhau:
 
@@ -48,7 +48,7 @@ Quy trình chạy hoàn toàn tự động theo từng bước kích hoạt nhau
 #### Kết quả thực tế trông như thế nào?
 Đây là ví dụ output thực từ hệ thống sau khi xử lý một hồ sơ bệnh nhân mẫu:
 
-<img width="865" height="550" alt="image" src="https://github.com/user-attachments/assets/ed85b62e-516a-4763-a13a-791f4f55093c" />
+<img width="865" height="550" alt="Blog 2-2" src="/images/3-Blogs/blog2-2.png" />
 
 *“Toàn bộ thông tin trên được trích xuất tự động từ một file PDF scan — trong vòng 2 đến 3 phút.”*
 

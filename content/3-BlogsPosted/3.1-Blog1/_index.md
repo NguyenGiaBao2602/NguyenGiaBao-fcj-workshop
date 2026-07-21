@@ -40,10 +40,10 @@ A particularly noteworthy detail from this case study is that the complete funct
 
 #### Profile Timeline Visual Analysis
 
-<img width="864" height="465" alt="721310532_1714956436369794_1702266059659888743_n" src="https://github.com/user-attachments/assets/6a4cfa93-1f6a-4864-8426-67f43ae15c0f" />
+<img width="864" height="465" alt="Blog 1-1" src="/images/3-Blogs/blog1-1.png" />
 
 *Caption: This exhibits the GPU entering stall phases—the empty gaps on the timeline highlight intervals where the GPU sits completely idle.*
-<img width="865" height="460" alt="719574039_1714958043036300_1311420270379012789_n" src="https://github.com/user-attachments/assets/3f549837-1146-40ff-8446-e86810fff3d0" />
+<img width="865" height="460" alt="Blog 1-2" src="/images/3-Blogs/blog1-2.png" />
 
 *Caption: Post optimization—the GPU runs continuously without any empty waiting spaces. This is the structural disparity between 82% and 99.9% performance efficiency.*
 
